@@ -12,6 +12,6 @@ public class StopContagion {
 
     public static void readData(String fileName) throws IOException {
 
-        FileReader
+
     }
 }
